@@ -85,6 +85,6 @@
     "created_by": "ivan",
     "comment": "Night"
   },
-  "enabled": false,
+  "enabled": true,
   "am_id": ""
 }
