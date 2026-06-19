@@ -4,7 +4,7 @@
   "env": "prod",
   "created_at": "2026-06-19T14:36:15.951807Z",
   "payload": {
-    "name": "бекапп",
+    "name": "бекап",
     "matchers": [
       {
         "name": "йцу",
@@ -18,5 +18,5 @@
     "comment": "планвоые работы"
   },
   "enabled": true,
-  "am_id": "9e870392-c408-49a3-8a9a-a641caf67388"
+  "am_id": "2ad013bb-8021-485c-ad36-348eed844a17"
 }
