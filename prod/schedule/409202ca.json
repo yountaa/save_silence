@@ -129,6 +129,6 @@
     "created_by": "Андрей Галька",
     "comment": "Ночные работы"
   },
-  "enabled": true,
+  "enabled": false,
   "am_id": ""
 }
