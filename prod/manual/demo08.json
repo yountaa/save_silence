@@ -2,7 +2,7 @@
   "id": "demo08",
   "kind": "manual",
   "env": "prod",
-  "created_at": "2026-06-24T12:35:53.304922+00:00",
+  "created_at": "2026-06-24T12:35:53.304922Z",
   "payload": {
     "name": "Active rule 8",
     "matchers": [
@@ -23,5 +23,5 @@
     "comment": "Демо silence #8"
   },
   "enabled": true,
-  "am_id": ""
+  "am_id": "20d8a1e6-13b0-4724-a71a-b09a9702bbba"
 }
