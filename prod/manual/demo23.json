@@ -1,0 +1,27 @@
+{
+  "id": "demo23",
+  "kind": "manual",
+  "env": "prod",
+  "created_at": "2026-06-24T12:35:53.304922+00:00",
+  "payload": {
+    "name": "Disabled rule 23",
+    "matchers": [
+      {
+        "name": "alertname",
+        "value": "Disabledrule23*",
+        "isRegex": true
+      },
+      {
+        "name": "team",
+        "value": "dba",
+        "isRegex": false
+      }
+    ],
+    "starts_at": "2026-06-24T14:35:53",
+    "ends_at": "2026-06-25T15:35:53",
+    "created_by": "user3",
+    "comment": "Демо silence #23"
+  },
+  "enabled": false,
+  "am_id": ""
+}
