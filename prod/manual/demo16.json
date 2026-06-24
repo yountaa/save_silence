@@ -2,7 +2,7 @@
   "id": "demo16",
   "kind": "manual",
   "env": "prod",
-  "created_at": "2026-06-24T12:35:53.304922+00:00",
+  "created_at": "2026-06-24T12:35:53.304922Z",
   "payload": {
     "name": "Pending rule 16",
     "matchers": [
@@ -23,5 +23,5 @@
     "comment": "Демо silence #16"
   },
   "enabled": true,
-  "am_id": ""
+  "am_id": "f52570bb-7d2c-494f-852c-16bedc76be17"
 }
