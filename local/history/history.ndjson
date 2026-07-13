@@ -1,0 +1,1 @@
+{"time": "2026-07-13T08:09:37.957772+00:00", "user": "уйц", "action": "создал", "kind": "manual", "name": "213", "before": null, "after": {"name": "213", "matchers": [{"name": "alertname", "value": "DiskWillFill", "isRegex": false}], "starts_at": "2026-07-13T11:09:00", "ends_at": "2026-07-14T11:09:00", "created_by": "уйц", "comment": "вц", "enabled": true}}
